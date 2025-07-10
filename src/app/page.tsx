@@ -13,10 +13,7 @@ export default function Home() {
         </p>
         <div className="prose max-w-none">
           <p>
-            M4G Advocacy Media encourages, educates and empowers people with all abilities. 
-            We are people with disabilities and so most of our work deals with advocating for 
-            others in that space, but at the same time, we're trying to build a more inclusive 
-            and accessible world.
+           Encouraging, educating and empowering people with all abilities by building healthier relationships and collaborating to help build inclusive cultures. Together we can all make a difference!
           </p>
         </div>
       </main>
